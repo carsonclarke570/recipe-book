@@ -1,0 +1,105 @@
+[
+    {
+        "title": "Toll House Chocolate Chip Cookies",
+        "source": "The New York Times",
+        "description": "In the 1930s..",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-200603-toll-house-chocolate-chip-cookies-0003-landscape-ag-1591384336.jpg",
+        
+        "prep":{
+            "oven": 375
+        },
+
+        "time": {
+            "n": 30,
+            "type": "minutes"
+        },
+        "yields": {
+            "n": 5,
+            "type": "dozen"
+        },
+
+        "ingredient_groups": [
+            {
+                "name": "Dough",
+                "ingredients": [
+                    {
+                        "name": "All-purpose Flour",
+                        "amount": {
+                            "n": 2.25,
+                            "type": "cup"
+                        }
+                    },
+                    {
+                        "name": "Baking Soda",
+                        "amount": {
+                            "n": 1,
+                            "type": "tsp"
+                        }
+                    },
+                    {
+                        "name": "Salt",
+                        "amount": {
+                            "n": 1,
+                            "type": "tsp"
+                        }
+                    },
+                    {
+                        "name": "Butter (Softened)",
+                        "amount": {
+                            "n": 1,
+                            "type": "cup"
+                        }
+                    },
+                    {
+                        "name": "White Sugar",
+                        "amount": {
+                            "n": 0.75,
+                            "type": "cup"
+                        }
+                    },
+                    {
+                        "name": "Brown Sugar",
+                        "amount": {
+                            "n": 0.75,
+                            "type": "cup"
+                        }
+                    },
+                    {
+                        "name": "Vanilla Extract",
+                        "amount": {
+                            "n": 1,
+                            "type": "tsp"
+                        }
+                    },
+                    {
+                        "name": "Large Eggs",
+                        "amount": {
+                            "n": 2,
+                            "type": ""
+                        }
+                    },
+                    {
+                        "name": "Semi-sweet Chocolate Chips",
+                        "amount": {
+                            "n": 2,
+                            "type": "cup"
+                        }
+                    }
+                ]
+            }
+        ],
+
+        "instruction_groups": [
+            {
+                "name": "Cookies",
+                "instructions": [
+                    "Pre-heat oven to 375. Combine flour, baking soda and salt in a small bowl.",
+                    "Beat butter, sugars and vanilla extract in a large mixing bowl until creamy. Add eggs one at a time, beating well after each addition.",
+                    "Gradually, beat in flour mixture. Stir in chocolate chips.",
+                    "Drop by rounded tablespoons onto un-greased baking sheet. Bake for 9 to 11 minutes until golden brown",
+                    "Cool on baking sheets for two minutes, then move to wire racks."
+                ]
+            }
+        ]
+    }
+]
